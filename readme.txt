@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 Git, add merge
+git stash test
