@@ -1,2 +1,2 @@
-#!/usr/bin/env add test string on branch dev
+#!/usr/bin/env python
 print('hello, world.')
